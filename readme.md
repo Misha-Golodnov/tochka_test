@@ -4,6 +4,6 @@
 
 ## Установка
 ```bash
-git clone https://github.com/ваш-логин/text-quality-project.git
-cd text-quality-project
+git clone https://github.com/Misha-Golodnov/tochka_test
+cd tochka_test
 pip install -r requirements.txt
